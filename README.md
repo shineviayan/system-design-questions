@@ -1,10 +1,13 @@
-# system-design-questions
-Collection of interesting System Design and Software Architecture questions
+System Design and Software Architecture Questions
+===
+The repository contains a set of interesting System Design and Software Architecture questions
 
-1. How will you design Uber for kids?
+# Questions
 
-2. Design a Fresh Grocery System. Means Daily usable Items, you cannot store them in inventory like bread, milk etc. How will you scale to multiple countries
+- [How will you design Uber for kids?](question)
+
+- [Design a Fresh Grocery System. Means Daily usable Items, you cannot store them in inventory like bread, milk etc. How will you scale to multiple countries]
 HLD+ DB Schema + Concurrency issues + Scalable architecture.
 
-3. How will you go about starting a bike rental marketplace? 
+- [How will you go about starting a bike rental marketplace?]
    
